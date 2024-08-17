@@ -14,7 +14,7 @@ $ python3 main.py <websayt> <potok> <vaqt>
 # Masalan:
 
 ```shell
-python3 main.py https://test.com/ 500 60
+$ python3 main.py https://test.com/ 500 60
 ```
 
 [Telegram  Channel✅️](https://t.me/Networking_Security)
