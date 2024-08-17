@@ -49,7 +49,7 @@ def ping_example_com():
 
 if __name__ == '__main__':
     if len(sys.argv) != 4:
-        print(Fore.RED + " [!] Argumentlar soni noto'g'ri. Quyidagicha ishlating: python3 main.py <websayt> <potok> <vaqt> \n Masalan: python3 main.py https://test.com 500 60")
+        print(Fore.RED + " [!] Argumentlar soni noto'g'ri. Quyidagicha ishlating: python3 main.py <websayt> <potok> <vaqt>\n Masalan: python3 main.py https://test.com 500 60")
         sys.exit(1)
 
     target, thread, t = sys.argv[1], sys.argv[2], sys.argv[3]
